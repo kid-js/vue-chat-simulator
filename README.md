@@ -1,14 +1,9 @@
 # vue-chat-simulator
 
-This template should help get you started developing with Vue 3 in Vite.
+Demo: [vue-chat-simulator.onrender.com](https://vue-chat-simulator.onrender.com/)
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Написано на Vue 3 (Composition API). Сборка: Vite. Постпроцессор: PostCSS.  
+Поскольку по условиям не должно быть серверной части, использовался обычный функциональный JS и работа с DOM.  
 
 ## Project Setup
 

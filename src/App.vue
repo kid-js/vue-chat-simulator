@@ -8,8 +8,6 @@ import ChatSection from './components/ChatSection.vue';
         <main class="main">
             <ChatSection :id="nanoid()" username="User 1" />
             <ChatSection :id="nanoid()" username="User 2" />
-            <ChatSection :id="nanoid()" username="User 3" />
-            <ChatSection :id="nanoid()" username="User 4" />
         </main>
     </div>
 </template>
